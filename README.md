@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Solomon
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently exploring both Machine learing and deep learning
-- 💞️ I’m looking to collaborate on Datascience projects
+- 💞️ I’m looking to collaborate on Datascience project
 - 📫 How to reach me @solomon.mailbx@gmail.com
 
 <!---
